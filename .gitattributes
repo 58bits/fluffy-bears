@@ -1,0 +1,23 @@
+# Convert all CRLFs into LFs, and keep them that way even after checkout.
+* text=input
+# These files are text and should be normalized (convert crlf => lf)
+*.css     text
+*.php     text
+*.js      text
+*.inc     text
+*.install text
+*.info    text
+*.txt     text
+*.module  text
+*.example text
+
+# Images should be treated as binary
+# (binary is a macro for -text -diff)
+*.png     binary
+*.jpeg    binary
+*.jpg     binary
+*.gif     binary
+*.zip     binary
+*.tar     binary
+*.gz      binary
+*.ico     binary
