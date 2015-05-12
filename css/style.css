@@ -198,12 +198,6 @@ button:focus {outline:0;}
     #bear {
       height: 310px;
       width: 260px;
-      top: 45%;
-      -ms-transform: translateY(-50%);
-      -webkit-transform: translateY(-50%);
-      -moz-transform: translateY(-50%);
-      -o-transform: translateY(-50%);
-      transform: translateY(-50%);
     }
 
     #bear-img {
