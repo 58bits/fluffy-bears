@@ -4,6 +4,8 @@ This is an educational site designed to teach basic browser safety, including of
 
 If a user clicks on the button, the site will attempt to download the eicar.com virus test file, which should trigger a warning if correctly configured anti-virus software is installed.
 
+[http://www.fluffybears.club/](http://www.fluffybears.club/)
+
 License: The GNU Affero General Public License.
 
 
